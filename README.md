@@ -1,5 +1,10 @@
 #### Hi there 👋
 
+Thank you for stoping by,
+
+- 🌱 I'm an iOS Engineer, Open for collaborations and remote jobs.
+
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -10,7 +15,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevAgani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="DevAgani's GitHub Stats" />
 </a>
 
-- 🌱 I'm an iOS Engineer
 - 📫 How to reach me:
 
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/georgenyakundi/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
