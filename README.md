@@ -2,7 +2,7 @@
 
 Thank you for stoping by,
 
-- 🌱 I'm an iOS Engineer, Open for collaborations and remote jobs.
+- 🌱 I'm an iOS Engineer based in Amsterdam, working for an amazing FinTech developing interesting and revolutionary software.
 
 
 
